@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Vocational High School IDN BS**
 
-- 🌱 I’m currently learning **bootstrap5**
+- 🌱 I’m currently learning **react js, vue, monggoDB**
 
 - 🤝 I’m looking for help with **JavaScript, Database, php**
 
