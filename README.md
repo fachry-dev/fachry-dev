@@ -25,4 +25,4 @@ Currently, I am expanding my horizons by diving into the world of **Cloud Comput
 
 ---
 
-> "Coding is not just about logic; it's an art of solving problems."
+> "404 Not Found. Status: 200 OK. This project is the result of turning a 'System Crash' into a final git push"
