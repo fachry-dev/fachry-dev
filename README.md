@@ -21,7 +21,7 @@ Currently, I am expanding my horizons by diving into the world of **Cloud Comput
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fachry-rizky-34404a250/) [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fachrywardanaa/?hl=en)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/fachrywardana/) [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fachrywardanaa/?hl=en)
 
 ---
 
